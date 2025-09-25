@@ -1,7 +1,7 @@
 # 📊 Revenue Metrics Dashboard (PostgreSQL + Tableau)
 
 ## 🛠 Tools / Інструменти
-Tableau Public, PostgreSQL, SQL
+Tableau Public, PostgreSQL, DBeaver
 
 ## 📝 Overview / Огляд
 Built a dynamic dashboard to monitor monthly revenue trends and user payment behavior.  
@@ -13,7 +13,7 @@ Built a dynamic dashboard to monitor monthly revenue trends and user payment beh
 - Churned Users, Churn Rate
 - Churned Revenue, Revenue Churn Rate
 - Expansion MRR, Contraction MRR
-- Customer Lifetime, LTV
+
 
 ## 🔧 Tasks / Завдання
 - Wrote SQL queries to extract and calculate revenue metrics from the schema.  
@@ -25,7 +25,7 @@ Built a dynamic dashboard to monitor monthly revenue trends and user payment beh
 
 ## 🎯 Outcome / Результат
 Delivered a reproducible BI dashboard for strategic decision-making.  
-Надано відтворюваний BI-дашборд для стратегічного прийняття рішень.
+Надано відтворюваний BI-дашборд для aн прийняття рішень.
 
 Enabled product teams to track revenue dynamics, identify churn patterns, and customize customer lifetime metrics.  
 Дашборд допомагає продуктовим командам відстежувати динаміку доходу, виявляти патерни відтоку та налаштовувати метрики життєвого циклу клієнта.
