@@ -34,6 +34,4 @@ Enabled product teams to track revenue dynamics, identify churn patterns, and cu
 - [Tableau Dashboard](https://public.tableau.com/...)  
 - [SQL Query](sql/revenue_metrics.sql)
 
-## 📸 Screenshots / Скріни
-- `screenshots/dashboard_overview.png`  
-- `screenshots/churn_funnel.png`
+
